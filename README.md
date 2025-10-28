@@ -1,2 +1,2 @@
 # automatic_testing
-learning project
+learning project for Python testing
